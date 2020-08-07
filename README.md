@@ -23,7 +23,7 @@ Also, i generated new fields such as age group in order to make grouping and ana
 * females spent the most on average with 14.6 minutes.
 * the mean age of most of the users whether by type or gender is between 33 and 36 yrs.
 * the distribution of duration by with another dimension which is the start hour where we notice the peaks at 12PM and 21PM. So this graph mixes two univariate graphs and gives more insight on the critical business hours to focus on as duration translates to income.
-* midweek days, e.g. Tuesdays, Wednesdays and Thursdays, has the highest rate of duration distribution 
+* midweek days, e.g. Tuesdays, Wednesdays and Thursdays, has the highest rate of duration distribution
 * From another dimension (month), I observe that the peaking months are (again) October followed by 3rd quarter.
 * the moving duration average with respect to age was steady but I noticed that this average experiences ups and downs peaks above the age of 100 probably due to the lack of sufficient data.
 * a steadily increasing duration mean and sudden jump after Friday which is the weekend.
@@ -44,5 +44,4 @@ Also, i generated new fields such as age group in order to make grouping and ana
 
 ## Key Insights for Presentation
 
-> Duration the analysis work, it was easy for the first look to make a quick conclusion but as we dived into more details and added a second and third dimension, we were able to make more insights and better conclusions considering all given variables whether numeric, categorical, timebased or string data. This gives an idea of the importtance of analytical visualization compared to one-dimensional statistical and mathematical analysis.
-
+During the analysis work, it was easy for the first look to make a quick conclusion but as we dived into more details and added a second and third dimension, we were able to make more insights and better conclusions considering all given variables whether numeric, categorical, timebased or string data. This gives an idea of the importtance of analytical visualization compared to one-dimensional statistical and mathematical analysis.
