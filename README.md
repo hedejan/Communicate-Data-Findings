@@ -3,7 +3,7 @@
 
 ## Dataset
 
-> The data consists of information regarding 1,863,721 bike hiring, including age, timeframe, gender, station, and others. The dataset can be found in Ford GoBike website.  
+The data consists of information regarding 1,863,721 bike hiring, including age, timeframe, gender, station, and others. The dataset can be found in Ford GoBike website.  
 Dataset: (https://s3.amazonaws.com/fordgobike-data/index.html)  
 The data consisted of 16 different variables such as birthday, gender, pickup and drop dates/time, station data and others. It contains 3.31 billion rides. Ages in dataset from 18 to 65 takes 99% of the users in dataset. There were users more than 100 years old. So, we can remove users more than 65 years old as a cleaning and tidy up.
 Also, i generated new fields such as age group in order to make grouping and analyze the date by using groups.
